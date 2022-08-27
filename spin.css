@@ -17,6 +17,7 @@ background: rgba(0, 0, 0, 0.4);
 	width: 140px;
 height: auto;
 padding: 1px 100px;
+border-radius: 100px;
 }
 .navi ul{
 	float: right;
